@@ -1,3 +1,7 @@
 #MY PROJECT
 
-##contacts manager
+
+This is my starting project
+starting today
+
+yes
